@@ -1,0 +1,15 @@
+C:\Workspece\CodeHomeTasks\BookProductTask\BookProductTask\bin\Debug\net6.0\BookProductTask.exe
+C:\Workspece\CodeHomeTasks\BookProductTask\BookProductTask\bin\Debug\net6.0\BookProductTask.deps.json
+C:\Workspece\CodeHomeTasks\BookProductTask\BookProductTask\bin\Debug\net6.0\BookProductTask.runtimeconfig.json
+C:\Workspece\CodeHomeTasks\BookProductTask\BookProductTask\bin\Debug\net6.0\BookProductTask.dll
+C:\Workspece\CodeHomeTasks\BookProductTask\BookProductTask\bin\Debug\net6.0\BookProductTask.pdb
+C:\Workspece\CodeHomeTasks\BookProductTask\BookProductTask\obj\Debug\net6.0\BookProductTask.csproj.AssemblyReference.cache
+C:\Workspece\CodeHomeTasks\BookProductTask\BookProductTask\obj\Debug\net6.0\BookProductTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspece\CodeHomeTasks\BookProductTask\BookProductTask\obj\Debug\net6.0\BookProductTask.AssemblyInfoInputs.cache
+C:\Workspece\CodeHomeTasks\BookProductTask\BookProductTask\obj\Debug\net6.0\BookProductTask.AssemblyInfo.cs
+C:\Workspece\CodeHomeTasks\BookProductTask\BookProductTask\obj\Debug\net6.0\BookProductTask.csproj.CoreCompileInputs.cache
+C:\Workspece\CodeHomeTasks\BookProductTask\BookProductTask\obj\Debug\net6.0\BookProductTask.dll
+C:\Workspece\CodeHomeTasks\BookProductTask\BookProductTask\obj\Debug\net6.0\refint\BookProductTask.dll
+C:\Workspece\CodeHomeTasks\BookProductTask\BookProductTask\obj\Debug\net6.0\BookProductTask.pdb
+C:\Workspece\CodeHomeTasks\BookProductTask\BookProductTask\obj\Debug\net6.0\BookProductTask.genruntimeconfig.cache
+C:\Workspece\CodeHomeTasks\BookProductTask\BookProductTask\obj\Debug\net6.0\ref\BookProductTask.dll
